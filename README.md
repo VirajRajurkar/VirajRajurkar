@@ -1,4 +1,4 @@
-## Hi there 👋 I'm [Your Name]
+## Hey, I'm Viraj!👋 
 
 ### 👨‍💻 About Me:
 - 🔭 I’m currently working on **[Your current project or job role]**
@@ -21,7 +21,7 @@
 ---
 
 ### 📈 GitHub Stats:
-![Viraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Viraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=VirajRajurkar&show_icons=true&theme=radical)
 
 ---
 
